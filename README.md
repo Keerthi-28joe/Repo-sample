@@ -20,8 +20,6 @@
 
 ###  Swagger / Postman Docs  
  ![Swagger Screenshort](/image/localhost.jpeg)
-> You can test all SharedStyles APIs interactively using Swagger or import Postman collections.
-
 ---
 
 ##  Tech Stack
