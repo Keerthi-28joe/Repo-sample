@@ -14,12 +14,6 @@
   Entity-Relationship diagram of the database schema (Users, Products, Orders, Cart, Ratings).
 
 ---
-
-##  UI Preview
-
-### 🛍️ SharedStyles Web Interface  
-![SharedStyles UI](/assets/localhost.jpeg)
-
 ---
 
 ##  API Testing Preview
